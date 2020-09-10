@@ -1,0 +1,257 @@
+ubscript out of rangevar>
+bscript out of rangex>
+\include\xstring,>
+script out of rangey>
+\include\xstring,>
+cript out of rangez>
+\include\xstring,>
+ript out of rangeq>
+\include\xstring,>
+ipt out of ranger>
+\include\xstring,>
+pt out of rangen>
+\include\xstring,>
+t out of rangef>
+\include\xstring;>
+ out of rangeprocedure>
+out of rangemultiply>
+\include\xstring;>
+ut of rangevar>
+t of rangea>
+\include\xstring,>
+ of rangeb>
+\include\xstring;>
+of rangebegin>
+f rangea>
+26.28801\include\xstring=>
+ rangex>
+\include\xstring;>
+rangeb>
+26.28801\include\xstring=>
+angey>
+\include\xstring;>
+ngez>
+26.28801\include\xstring=>
+gex>
+26.28801\include\xstring*>
+eyend>
+\include\xstring;>
+procedure>
+divide>
+\include\xstring;>
+var>
+w>
+\include\xstring;>
+begin>
+r>
+26.28801\include\xstring=>
+x>
+\include\xstring;>
+G:\Visual Stuio\VC\Tools\MSVC\14.26.28801\include\xstringq>
+26.28801\include\xstring=>
+ out of range0>
+\include\xstring;>
+:\Visual Stuio\VC\Tools\MSVC\14.26.28801\include\xstringw>
+26.28801\include\xstring=>
+\Visual Stuio\VC\Tools\MSVC\14.26.28801\include\xstringy>
+\include\xstring;>
+Visual Stuio\VC\Tools\MSVC\14.26.28801\include\xstringwhile>
+isual Stuio\VC\Tools\MSVC\14.26.28801\include\xstringw>
+26.28801\include\xstring<=>
+sual Stuio\VC\Tools\MSVC\14.26.28801\include\xstringr>
+ual Stuio\VC\Tools\MSVC\14.26.28801\include\xstringdo>
+al Stuio\VC\Tools\MSVC\14.26.28801\include\xstringw>
+26.28801\include\xstring=>
+out of range2>
+26.28801\include\xstring*>
+l Stuio\VC\Tools\MSVC\14.26.28801\include\xstringw>
+\include\xstring;>
+ Stuio\VC\Tools\MSVC\14.26.28801\include\xstringwhile>
+Stuio\VC\Tools\MSVC\14.26.28801\include\xstringw>
+26.28801\include\xstring>>
+tuio\VC\Tools\MSVC\14.26.28801\include\xstringy>
+uio\VC\Tools\MSVC\14.26.28801\include\xstringdo>
+io\VC\Tools\MSVC\14.26.28801\include\xstringbegin>
+o\VC\Tools\MSVC\14.26.28801\include\xstringq>
+26.28801\include\xstring=>
+ut of range2>
+26.28801\include\xstring*>
+\VC\Tools\MSVC\14.26.28801\include\xstringq>
+\include\xstring;>
+VC\Tools\MSVC\14.26.28801\include\xstringw>
+26.28801\include\xstring=>
+C\Tools\MSVC\14.26.28801\include\xstringw>
+26.28801\include\xstring/>
+t of range2>
+\include\xstring;>
+\Tools\MSVC\14.26.28801\include\xstringif>
+Tools\MSVC\14.26.28801\include\xstringw>
+26.28801\include\xstring<=>
+ools\MSVC\14.26.28801\include\xstringr>
+ols\MSVC\14.26.28801\include\xstringthen>
+ls\MSVC\14.26.28801\include\xstringbegin>
+s\MSVC\14.26.28801\include\xstringr>
+26.28801\include\xstring=>
+\MSVC\14.26.28801\include\xstringr>
+26.28801\include\xstring->
+MSVC\14.26.28801\include\xstringw>
+\include\xstring;>
+SVC\14.26.28801\include\xstringq>
+26.28801\include\xstring=>
+VC\14.26.28801\include\xstringq>
+26.28801\include\xstring+>
+ of range1>
+C\14.26.28801\include\xstringend>
+\14.26.28801\include\xstringendend>
+\include\xstring;>
+14.26.28801\include\xstringprocedure>
+4.26.28801\include\xstringgcd>
+\include\xstring;>
+.26.28801\include\xstringvar>
+26.28801\include\xstringg>
+\include\xstring;>
+6.28801\include\xstringbegin>
+.28801\include\xstringf>
+26.28801\include\xstring=>
+28801\include\xstringx>
+\include\xstring;>
+8801\include\xstringg>
+26.28801\include\xstring=>
+801\include\xstringy>
+\include\xstring;>
+01\include\xstringwhile>
+1\include\xstringf>
+26.28801\include\xstring#>
+\include\xstringg>
+include\xstringdo>
+nclude\xstringbegin>
+clude\xstringif>
+lude\xstringf>
+26.28801\include\xstring<>
+ude\xstringg>
+de\xstringthen>
+e\xstringg>
+26.28801\include\xstring=>
+\xstringg>
+26.28801\include\xstring->
+xstringf>
+\include\xstring;>
+stringif>
+tringg>
+26.28801\include\xstring<>
+ringf>
+ingthen>
+ngf>
+26.28801\include\xstring=>
+gf>
+26.28801\include\xstring->
+g>
+end>
+\include\xstring;>
+z>
+26.28801\include\xstring=>
+fend>
+\include\xstring;>
+procedure>
+fact>
+\include\xstring;>
+begin>
+if>
+n>
+26.28801\include\xstring>>
+of range1>
+then>
+begin>
+f>
+26.28801\include\xstring=>
+n>
+26.28801\include\xstring*>
+f>
+\include\xstring;>
+n>
+26.28801\include\xstring=>
+n>
+26.28801\include\xstring->
+f range1>
+\include\xstring;>
+call>
+fact>
+endend>
+\include\xstring;>
+Gbegin>
+read>
+ring(>
+:x>
+)>
+\include\xstring;>
+read>
+ring(>
+\y>
+)>
+\include\xstring;>
+call>
+Vmultiply>
+\include\xstring;>
+write>
+ring(>
+iz>
+)>
+\include\xstring;>
+read>
+ring(>
+sx>
+)>
+\include\xstring;>
+read>
+ring(>
+uy>
+)>
+\include\xstring;>
+call>
+adivide>
+\include\xstring;>
+write>
+ring(>
+lq>
+)>
+\include\xstring;>
+write>
+ring(>
+ r>
+)>
+\include\xstring;>
+read>
+ring(>
+Sx>
+)>
+\include\xstring;>
+read>
+ring(>
+ty>
+)>
+\include\xstring;>
+call>
+ugcd>
+\include\xstring;>
+write>
+ring(>
+iz>
+)>
+\include\xstring;>
+read>
+ring(>
+on>
+)>
+\include\xstring;>
+f>
+26.28801\include\xstring=>
+ range1>
+\include\xstring;>
+\call>
+fact>
+\include\xstring;>
+Vwrite>
+ring(>
+f>
+)>
+Cend>

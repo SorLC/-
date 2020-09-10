@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Treap", "Treap\Treap.vcxproj", "{F0730EF4-4FA1-42B9-AEAF-13E629C0BB1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0730EF4-4FA1-42B9-AEAF-13E629C0BB1C}.Debug|x64.ActiveCfg = Debug|x64
+		{F0730EF4-4FA1-42B9-AEAF-13E629C0BB1C}.Debug|x64.Build.0 = Debug|x64
+		{F0730EF4-4FA1-42B9-AEAF-13E629C0BB1C}.Debug|x86.ActiveCfg = Debug|Win32
+		{F0730EF4-4FA1-42B9-AEAF-13E629C0BB1C}.Debug|x86.Build.0 = Debug|Win32
+		{F0730EF4-4FA1-42B9-AEAF-13E629C0BB1C}.Release|x64.ActiveCfg = Release|x64
+		{F0730EF4-4FA1-42B9-AEAF-13E629C0BB1C}.Release|x64.Build.0 = Release|x64
+		{F0730EF4-4FA1-42B9-AEAF-13E629C0BB1C}.Release|x86.ActiveCfg = Release|Win32
+		{F0730EF4-4FA1-42B9-AEAF-13E629C0BB1C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D7A8483-7AF8-480B-8461-CCE1B4070AFF}
+	EndGlobalSection
+EndGlobal
